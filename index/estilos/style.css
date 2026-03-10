@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+/* @font-face{
+    colar fonte que vamos utilizar, pesquisar depois! */
+
+:root{
+    --cor0: #F2F2F2;
+    --cor1: #F2CFBB;
+    --cor2: #BF4E4E;
+    --cor3: #A64141;
+    --cor4: #592E2E;
+    --cor5: #0D0C0C;
+
+    --fonte-padrao:
+    --fonte-destaque:
+}
+/* add as cores e fontes depois! */
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
