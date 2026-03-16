@@ -18,6 +18,13 @@
   box-sizing: border-box; 
 }
 
+.escudo {
+    margin: auto;
+    height: 220px;
+    width: auto;
+
+}
+
 body {
     background-color: var(--cor0);
     font-family: var(--fonte-padrao);
