@@ -97,9 +97,21 @@ main p {
 
 main h1{
     font-family: var(--fonte-destaque);
+    color: var(--cor0);
+    background-image: linear-gradient(to right, var(--cor3), transparent);
+    padding-left: 12px;
+    border-top-left-radius: 10px;
+    padding-top: 5px;
+    text-shadow: 2px 1px 0px rgba(20, 15, 15, 2.473);
 }
 
 main h2{
     font-family: var(--fonte-padrao);
     font-size: 1.1em;
+    color: var(--cor1);
+    background-image: linear-gradient(to right, var(--cor3), transparent);
+    padding-left: 12px;
+    border-end-start-radius: 10px;
+    padding-bottom: 5px;
+    text-shadow: 2px 1px 0px rgba(20, 15, 15, 2.473);
 }
