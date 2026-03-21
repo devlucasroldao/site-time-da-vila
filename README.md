@@ -1,23 +1,19 @@
-###2 Site Oficial - Time da Vila
-
-```markdown
-# ⚽ Site Oficial - Time da Vila
+# 🔴⚽ Site Oficial - Time da Vila
 
 > O portal digital para conectar o Time da Vila com seus torcedores, jogadores e a comunidade.
 
 ## 📖 Sobre o Projeto
-Este projeto foi criado com o objetivo de dar uma identidade digital profissional para um time de futebol local, o **Time da Vila**. A ideia é ter um espaço centralizado onde qualquer pessoa possa conhecer a história do clube, conferir o elenco, ver os próximos jogos e acompanhar os resultados.
+Este projeto foi criado para dar uma identidade digital profissional e marcante para o **Time da Vila**, um time de futebol local. O site foi projetado para ser o coração da torcida na internet, respirando a **cor vermelha** oficial do clube em cada detalhe visual. 
 
-Foi um excelente projeto para aprimorar minhas habilidades em Front-End, trabalhando com layouts de múltiplas sessões e design focado em usabilidade esportiva.
+A ideia é ter um espaço centralizado onde qualquer pessoa possa mergulhar na rica história do clube, relembrar elencos vitoriosos, conhecer as nossas raízes e acompanhar os jogos. Foi um excelente projeto prático para aprimorar minhas habilidades em Front-End, criando layouts de múltiplas sessões com um design focado na paixão e usabilidade esportiva.
 
 ## ✨ Funcionalidades
-- **Página Inicial (Home):** Destaques, nossa história, galeria de campeões mostrando elencos vencedores do clube, e uma grande novidade, o TV União, canal no YouTube que vai fazer a transmissão ao vivo dos jogos.
-- **História do Clube:** Seção dedicada à fundação e conquistas do Time da Vila.
-- **Elencos Lendários:** Galeria com os jogadores e comissão técnica campeões da nossa história.
-- **Origem do Mascote:** Registros dos jogos e eventos do time.
-- **História do Estádio:** Um pouco sobre nosso campo, origem e como surgiu.
+* **Página Inicial (Home):** Destaques do clube, introdução à nossa história, galeria de campeões e o grande destaque: integração com a **TV União**, nosso canal no YouTube para transmissão ao vivo dos jogos.
+* **História do Clube:** Seção dedicada à fundação, lutas e conquistas do Time da Vila.
+* **Elencos Lendários:** Galeria de honra com os jogadores e a comissão técnica que levantaram taças e marcaram nossa história.
+* **Origem do Mascote:** A história por trás do símbolo que representa a garra do nosso time, acompanhada de registros históricos.
+* **História do Estádio:** Um passeio pelas raízes do nosso campo, sua construção e como ele se tornou a nossa casa.
 
 ## 🛠️ Tecnologias Utilizadas
-* **HTML5:** Criação de toda a estrutura e conteúdo da página.
-* **CSS3:** Estilização com foco nas cores oficiais do time, animações e design responsivo (Mobile First).
-* **JavaScript:** (Coloque aqui se usou para fazer um menu sanduíche, um carrossel de fotos, etc).
+* **HTML5:** Criação de toda a estrutura semântica e conteúdo das páginas.
+* **CSS3:** Estilização baseada na identidade visual do clube, com forte presença do **vermelho**, uso de animações fluidas e design totalmente responsivo (Mobile First).
