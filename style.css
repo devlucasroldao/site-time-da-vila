@@ -125,8 +125,32 @@ main h3 {
   text-shadow: -1px 1px 6px rgba(35, 32, 32, 8.473);
 }
 
-.part-dorvalino{
-  display: flexbox;
+.destaque-video {
+  display: flex;
+  justify-content: center;
+  margin: 30px 0px; 
+}
+
+.destaque-video iframe {
+  width: 80%;
+  max-width: 800px;
+  height: 450px; 
+  border-radius: 10px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+.part-dorvalino {
+  display: flex;
+  align-items: center; 
+  gap: 30px; 
+  margin: 20px 0px;
+}
+
+.img-dorvalino {
+  width: 350px;
+  border-radius: 10px;
+  background-color: var(--cor2);
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
 }
 
 .dorvalino {
@@ -137,6 +161,19 @@ main h3 {
   margin: auto; */
 }
 
+.part-estadio {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin: 20px 0px;
+}
+
+.img-estadio {
+  width: 400px; /* Deixei a foto do campo um pouco maior */
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+}
+
 footer {
   background-color: var(--cor4);
   color: var(--cor0);
@@ -145,7 +182,7 @@ footer {
   font: 0.8em;
 }
 
-footer a{
+footer a {
   color: var(--cor1);
   font-weight: bolder;
   text-decoration: none;
