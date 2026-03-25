@@ -199,7 +199,7 @@ main h3 {
   display: flex;
   align-items: center; 
   gap: 25px; 
-  background-color: var(--cor0);
+  background-color: var(--cor0); 
   padding: 20px;
   margin: 30px 0px; 
   border-radius: 15px; 
@@ -208,7 +208,7 @@ main h3 {
 
 .img-campeao {
   width: 320px;
-  height: 220px; 
+  height: 220px;
   object-fit: cover;
   border-radius: 10px;
 }
@@ -221,7 +221,7 @@ main h3 {
   text-align: left;
   padding-top: 0px;
   margin-bottom: 10px;
-  text-shadow: none;
+  text-shadow: none; 
   color: var(--cor3); 
 }
 
