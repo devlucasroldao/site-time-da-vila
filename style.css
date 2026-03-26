@@ -247,3 +247,52 @@ footer a:hover {
   text-decoration: underline;
   color: var(--cor2);
 }
+
+.btn-youtube {
+  display: inline-block;
+  background-color: var(--cor2);
+  color: var(--cor0);
+  padding: 15px 30px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-family: var(--fonte-padrao);
+  font-weight: bold;
+  font-size: 1.2em;
+  transition: 0.3s;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
+}
+
+.btn-youtube:hover {
+  background-color: var(--cor3);
+  transform: scale(1.05); 
+}
+
+.destaque-mascote h1, .destaque-mascote h2 {
+  background-image: none;
+  text-shadow: none;
+  color: var(--cor0);
+  text-align: center;
+  padding: 0;
+}
+
+.destaque-mascote h2 {
+  color: var(--cor1);
+  margin-bottom: 20px;
+}
+
+
+@media (max-width: 800px) {
+  .part-dorvalino, .part-estadio, .conteudo-mascote, .cartao-campeao {
+    flex-direction: column; 
+    text-align: center;
+  }
+  
+  .img-dorvalino, .img-estadio, .img-mascote, .img-campeao {
+    width: 100%;
+    height: auto;
+  }
+  
+  .texto-campeao h3 {
+    text-align: center;
+  }
+}
