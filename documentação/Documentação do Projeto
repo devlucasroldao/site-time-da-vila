@@ -1,0 +1,112 @@
+📄 Documentação do Projeto: Portal União da Vila F.C.
+1. Visão Geral do Projeto
+O projeto consiste em uma Landing Page esportiva (Single Page Application) desenvolvida para o União da Vila F.C., clube tradicional de Arroio do Sal. O objetivo é digitalizar a história do clube, homenagear seus ídolos e conectar a torcida através de transmissões ao vivo, utilizando um design moderno, responsivo e focado na experiência do usuário (UX/UI).
+
+2. Paleta de Cores e Estética
+A identidade visual foi construída para refletir a paixão e a força do clube, utilizando tons de vermelho e fundos claros para garantir uma leitura confortável.
+
+Fundo Principal (Background): Cinza muito claro (#f2f2f2) e tons pastéis (#f2cfbb).
+
+Cores de Destaque (Identidade do Clube): Vermelho vivo (#bf4e4e), Vermelho escuro/Bordô (#a64141) e Marrom escuro (#592e2e).
+
+Tipografia: * Títulos: Bebas Neue (traz imponência e peso esportivo).
+
+Textos base: Roboto (garante legibilidade fluida em qualquer tamanho de tela).
+
+3. Estrutura de Layout e Funcionalidades
+O site foi construído com navegação em âncoras (Scroll Suave) e Efeitos de Hover (flutuação) para dar dinamismo.
+
+Header (Cabeçalho): Escudo centralizado com efeito de luz ao passar o mouse (drop-shadow), seguido pelo nome do time e um subtítulo. Fundo em gradiente vermelho.
+
+Menu de Navegação (Nav): Fixo no topo da tela (sticky), acompanhado de emojis para facilitar a leitura rápida.
+
+Seção 1: Campeão Praiano (Vertical): Layout lado a lado. Imagem formatada como "pôster" vertical (object-fit: cover) à esquerda, com o texto celebrativo à direita.
+
+Seção 2: TV União: Centralizada, dando total foco ao player do YouTube incorporado, seguido por um botão chamativo (Call to Action) para inscrição no canal.
+
+Seção 3: Nossa História: Layout flexível (Flexbox) com texto à esquerda e foto do fundador à direita.
+
+Seção 4: O Estádio: Imagem do estádio gigante e centralizada ocupando quase toda a largura, com o texto descritivo logo abaixo, dando peso histórico ao momento da fundação.
+
+Seção 5: Mascote (Aside): Uma caixa compacta com fundo vermelho sólido. Layout centralizado com o texto descritivo à esquerda e a foto à direita.
+
+Seção 6: Galeria de Campeões: Formato de "Cartões" (Cards). Imagem do elenco cravada à esquerda e os dados da conquista à direita.
+
+Footer (Rodapé): Minimalista, com os direitos autorais, créditos do desenvolvedor e link para o Instagram oficial.
+
+4. Conteúdo Escrito (Copywriting)
+Aqui estão todos os textos exatos utilizados no site, com as marcações de negrito aplicadas para escaneabilidade.
+
+Cabeçalho e Menu:
+
+Título: União da Vila F.C.
+
+Subtítulo: Tradição, Raça e Paixão pelo Futebol de Arroio do Sal.
+
+Menu: 🏆 Campeão Praiano | 📺 TV União | 📖 Nossa História | 🏟️ O Estádio | 🌟 Galeria de Campeões
+
+Seção: Campeão Praiano
+
+Título Principal: A Mais Recente Glória
+
+Subtítulo: Campeão do Praiano 2026!
+
+Texto: É CAMPEÃO! A Vila acaba de levantar a taça do Campeonato Praiano 2026, reafirmando sua força e tradição nas areias de Arroio do Sal. Uma conquista inesquecível que já está eternizada no coração da nossa apaixonada torcida!
+
+Seção: TV União
+
+Título Principal: 🔴 AO VIVO: Assista à TV União
+
+Subtítulo: Não perca nenhum lance da nossa equipe!
+
+Texto: A arquibancada ficou pequena para a nossa paixão! Agora, você pode acompanhar todos os lances, golaços e emoções do União da Vila de onde estiver. Dê o play acima para assistir à nossa transmissão ao vivo e não perca nenhum detalhe da nossa jornada.
+
+Botão: 🔔 Inscreva-se na Vila TV
+
+Seção: Nossa História
+
+Título Principal: Onde a Nossa História Começou
+
+Subtítulo: A Raiz de Tudo (História e Seu Dorvalino)
+
+Texto: Nossa história se funde com a de Seu Dorvalino Monteiro da Cunha. Vindo de Águas Claras para Arroio do Sal há mais de quatro décadas, ele e sua esposa, Dona Tomázia, construíram uma grande família e fincaram raízes no Bairro Vila das Flores.
+Amante do esporte, Seu Dorvalino compartilhava a bola e a paixão com grandes amigos, como Seu Zito, Tio Bibi e Seu Marcos. Dessa união genuína, nasceu oficialmente o Clube União da Vila no dia 1º de Abril de 1994. Seu Dorvalino nos deixou há quase vinte anos, mas hoje está eternizado no nome do nosso estádio, presente em cada grito da torcida e em cada gol da nossa Vila.
+
+Seção: O Estádio
+
+Título Principal: Estádio Dorvalino Monteiro da Cunha
+
+Subtítulo: A Nossa Casa, o caldeirão!
+
+Texto: Nascido em 94, o União da Vila já era o orgulho de todo o bairro, mas faltava o detalhe principal: um campo pra chamar de nosso! Em 2004, após muito suor da nossa diretoria, conquistamos esse grande sonho. A imagem acima eterniza o dia da inauguração deste sagrado gramado.
+Anos mais tarde, nosso saudoso Tio Bibi pediu que o campo fosse batizado em homenagem ao grande amigo, tornando-se o Estádio Dorvalino Monteiro da Cunha. Hoje, nosso caldeirão é motivo de enorme orgulho, palco de grandes títulos, partidas memoráveis e do amor incondicional de toda uma comunidade por esse Clube.
+
+Seção: Mascote
+
+Título Principal: A Origem do Nosso Mascote
+
+Subtítulo: Conheça um pouco sobre a nossa força
+
+Texto 1: Todo grande time tem um símbolo de força na arquibancada. O nosso é o Zito.
+
+Texto 2 (Curiosidade): O nome do nosso mascote é uma justa e bela homenagem a um grande torcedor, pioneiro e amigo: o eterno Seu Zito!
+
+Seção: Galeria de Campeões
+
+Título Principal: Nossas Maiores Glórias
+
+Subtítulo: Esquadrões de Ouro: Nossos Times Campeões
+
+Campeão 1997: O esquadrão que conquistou o nosso segundo título Municipal! Donos de um futebol rápido e alegre, essa equipe encantava a todos e transformava cada vitória em uma grande festa até de madrugada em nossa antiga sede. Fica aqui a eterna homenagem aos nossos heróis de 1997: Airton, Varda, Traíra, Cléo, Peixe-Rei, Carrasco, Silvinho, Clairto, Codo, Airtinho, o pequeno Willians e o nosso saudoso Jerry.
+
+Campeão 1998: O time que cravou o tricampeonato Municipal consecutivo para a nossa Vila! Fazendo sucesso e grandes exibições por toda Arroio do Sal, esse baita elenco consolidou definitivamente o União da Vila como um dos maiores e mais tradicionais clubes do município, trazendo para casa o nosso terceiro caneco!
+
+Campeão 2009: O brilhante elenco do nosso Quinto Campeonato Municipal! Uma campanha inesquecível, com Peixe-Rei operando milagres no seu auge, e a dupla de ataque histórica formada por Pelé e Chico Branco. Agradecemos à nossa estrelinha Aninha pelo resgate desta foto do acervo do Seu Zito. Uma homenagem eterna a quem dedicou a vida por esse Clube.
+
+Rodapé (Footer):
+
+© 2026 União da Vila F.C. - Todos os direitos reservados.
+
+Desenvolvido com orgulho por Lucas Roldão
+
+Siga nosso dia a dia no Instagram: @uniaodavilaarroio
