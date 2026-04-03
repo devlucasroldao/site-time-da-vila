@@ -14,7 +14,7 @@ O site foi projetado para ser o coração da torcida na internet. A interface re
 Este projeto também marca a aplicação de conceitos modernos de Front-End, como estruturação semântica, alinhamentos complexos e responsividade total.
 
 ## 🚀 Acesse o Site (Live Demo)
-🔗 **[Clique aqui para acessar o Portal do União da Vila no ar!]https://devlucasroldao.github.io/site-time-da-vila/**
+🔗 **Clique aqui para acessar o Portal do União da Vila no ar!: https://devlucasroldao.github.io/site-time-da-vila/**
 
 ## ✨ Funcionalidades e Seções
 A Landing Page funciona no formato *Single Page Application* (página única) com navegação suave (Smooth Scroll) entre as seções:
