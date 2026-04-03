@@ -38,7 +38,7 @@ Para garantir um layout fluido e de alta performance, foram utilizadas as seguin
 ## 📱 Capturas de Tela
 
 <div align="center">
-  <img src="" width="400px" alt="Preview no Computador">
+  <img src="imagens/preview-pc.png" width="400px" alt="Preview no Computador">
   <img src="imagens/preview-mobile.png" width="200px" alt="Preview no Celular">
 </div>
 
